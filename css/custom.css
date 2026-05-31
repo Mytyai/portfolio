@@ -1,0 +1,92 @@
+a:link,
+a:visited,
+a:hover,
+a:active,
+a:focus {
+  color: #4a148c;
+}
+
+body {
+  font-size: 18px;
+}
+
+.menu {
+  font-size: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5em;
+  list-style: none;
+  padding: 0;
+}
+
+.menu li {
+  display: block;
+}
+
+h1 {
+  font-size: 2.125em;
+  margin: 0.67em 0;
+}
+h2 { font-size: 1.625em; }
+h3 { font-size: 1.3125em; }
+
+.discipline-list {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.discipline-list h2 {
+  font-size: 2.125em;
+  margin: 0 0 0.35em 0;
+  padding: 0;
+  line-height: 1.2;
+}
+
+.discipline-list h2:first-of-type {
+  margin-top: 0.67em;
+}
+
+.discipline-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.discipline-list ul:not(:last-of-type) {
+  padding-bottom: 1.75em;
+}
+
+.discipline-list li {
+  margin: 0.5em 0;
+}
+
+.discipline-list li:first-child {
+  margin-top: 0;
+}
+
+.discipline-list li:last-child {
+  margin-bottom: 0;
+}
+
+.menu a,
+.discipline-list a {
+  text-decoration: none;
+  background: #eee;
+  padding: 5px 8px;
+  border-radius: 5px;
+}
+
+.discipline-list a {
+  display: inline-block;
+}
+
+.menu a:hover,
+.discipline-list a:hover {
+  background: #f8f8f8;
+}
+
+.menu a:active,
+.discipline-list a:active {
+  background: #ddd;
+}
