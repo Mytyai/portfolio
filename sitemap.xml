@@ -3,32 +3,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/portfolio/categories/</loc>
+    <loc>https://mytyai.github.io/portfolio/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tags/</loc>
+    <loc>https://mytyai.github.io/portfolio/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>https://mytyai.github.io/portfolio/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/projects/it/</loc>
+    <loc>https://mytyai.github.io/portfolio/projects/it/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/contact/</loc>
+    <loc>https://mytyai.github.io/portfolio/projects/itm/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/projects/coursework/</loc>
+    <loc>https://mytyai.github.io/portfolio/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/projects/dl/</loc>
+    <loc>https://mytyai.github.io/portfolio/projects/coursework/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/about/</loc>
+    <loc>https://mytyai.github.io/portfolio/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/projects/bi/</loc>
+    <loc>https://mytyai.github.io/portfolio/projects/ca/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/projects/ca/</loc>
+    <loc>https://mytyai.github.io/portfolio/projects/practice/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/projects/ml/</loc>
+    <loc>https://mytyai.github.io/portfolio/projects/prog/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/projects/practice/</loc>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/projects/prog/</loc>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/projects/</loc>
+    <loc>https://mytyai.github.io/portfolio/projects/</loc>
   </url>
 </urlset>
